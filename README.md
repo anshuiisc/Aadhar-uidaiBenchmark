@@ -26,4 +26,10 @@
 - By default 15 minutes events are given, if you want to create 24 hours events then either make changes in runUidaiTopology.sh file or run "python /path/to/.../data/enroll/scripts/eventGen.py" on terminal.
 
 
-<center> ** </center>
+<!--<center> ** </center>-->
+
+Please refer the paper for detailed info  - <http://arxiv.org/pdf/1510.04160v2.pdf> 
+
+
+
+
