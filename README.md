@@ -28,8 +28,7 @@
 
 <!--<center> ** </center>-->
 
-Please refer the paper for detailed info  - <http://arxiv.org/pdf/1510.04160v2.pdf> 
-
-
+Please refer the paper for detailed info  - <http://arxiv.org/pdf/1510.04160v2.pdf>  at [WBDB-2015]
+[WBDB-2015]: http://clds.sdsc.edu/wbdb2015.in
 
 
